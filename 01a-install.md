@@ -63,6 +63,7 @@ How can you check the version of Python installed if you happen to be on an unfa
 ```
 >> 
 >> In the Terminal using the following command:
+
 >> ```console
 >> python --version
 >> ```

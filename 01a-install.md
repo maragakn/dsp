@@ -54,13 +54,13 @@ Did you install Python 2 or 3? Why?
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> Python version can be checked using the Terminal or using one of the Python Interpreters.
->> In the interpreter use the following code:
->> >> '''python 
+>> ```Python version can be checked using the Terminal or using one of the Python Interpreters.```
+>> ```In the interpreter use the following code:```
+>> >> ```python 
 import sys
 print(str(sys.version_info[0])+'.'+str(sys.version_info[1]))
-'''
+```
 >> In the Terminal using the following command:
->> >> '''bash
+>> >> ```console
 python --version
-'''
+```

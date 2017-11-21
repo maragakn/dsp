@@ -58,8 +58,8 @@ How can you check the version of Python installed if you happen to be on an unfa
 >> 
 >> In the interpreter use the following code:
 >> ```python 
->> >> import sys
->> >> print(str(sys.version_info[0])+'.'+str(sys.version_info[1]))
+>> import sys
+>> print(str(sys.version_info[0])+'.'+str(sys.version_info[1]))
 ```
 >> 
 >> In the Terminal using the following command:

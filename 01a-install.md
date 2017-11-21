@@ -48,7 +48,8 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I installed Python 3 as it has the latest features and the major libraries like scipy,numpy and other related packages are available in Python3. 
+>> Python 2 is planned to phase out by 2020 so I think its better to be acquainted with Python 3 instead of Python 2.
 
 ### Q2. Which Python Version Installed   
 

@@ -82,7 +82,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
 >> I prefer nano and emacs for editing and creating files. 
-
+>> 
 >> They are simple to use and the commands to save are simple compared to vi where we need to toggle between command and insert mode.
 
 
@@ -93,11 +93,11 @@ What graphical editor will you use? How did you make your decision? What are som
 >> I would prefer nano and emacs for the simplicity of being in sync with the terminal editor. Otherwise from graphical interface point of view I prefer Sublime as I have worked on that and it supports many languages like python,C,C++, Java, HTML,PERL,JavaScript,MATLAB etc. Features that set it aside from other editors are mentioned below:
 
 >> >> Multiple Selection
-
+>> >> 
 >> >> Goto Anything
-
+>> >> 
 >> >> Goto Definition
-
+>> >> 
 >> >> Switch File
-
+>> >> 
 >> >> Paste and Indent

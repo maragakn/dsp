@@ -81,7 +81,8 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I prefer nano and emacs for editing and creating files. 
+>> They are simple to use and the commands to save are simple compared to vi where we need to toggle between command and insert mode.
 
 --
 

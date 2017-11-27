@@ -21,26 +21,42 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 
 > > Commands
 >> >> show current working directory path
->> >> >> ``` console 
->> >> >> pwd 
->> >> >> ```
+>> >> ``` console 
+>> >> pwd 
+>> >> ```
 >> >> creating a directory
->> >> >> mkdir <directory_name>
+>> >> ``` console
+>> >> mkdir <directory_name>
+>> >> ```
 >> >> deleting a directory
->> >> >> rm +r <directory_name>
+>> >> ``` console
+>> >> rm +r <directory_name>
+>> >> ```
 >> >> creating a file using `touch` command
->> >> >> touch <file_name>
+>> >> ``` console
+>> >> touch <file_name>
+>> >> ```
 >> >> deleting a file
->> >> >> rm <file_name>
+>> >> ``` console
+>> >> rm <file_name>
+>> >> ```
 >> >> renaming a file
->> >> >>
+>> >> ``` console
+>> >> 
+>> >> ```
 >> >> listing hidden files
->> >> >> ls -a
+>> >> ``` console
+>> >> ls -a
+>> >> ```
 >> >> copying a file from one directory to another
->> >> >> cp <file_name> <destination_directory_name>
+>> >> ``` console
+>> >> cp <file_name> <destination_directory_name>
+>> >> ```
 >> >> searching for a particular file using grep
->> >> >> 
-```
+>> >> ``` console
+>> >> 
+>> >> ```
+
 > > 
 ---
 

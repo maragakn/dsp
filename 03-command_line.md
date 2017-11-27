@@ -87,11 +87,11 @@ What do the following commands do:
 >> >> ```console
 >> >> ls -lh
 >> >> ```
->> >> 
+>> >> lists the files and directories in the long format with the size mentioned in human-readable format like Bytes,GB etc
 >> >> ```console
 >> >> ls -lah
 >> >> ```
->> >> 
+>> >> lists the files and directories(including hidden ones) in the long format with the size mentioned in human-readable format like Bytes,GB etc
 >> >> ```console
 >> >> ls -t
 >> >> ```
@@ -99,7 +99,7 @@ What do the following commands do:
 >> >> ```console
 >> >> ls -Glp
 >> >> ```
->> >> 
+>> >> lists the files and directories in the long format. Highlights the directories by using a '/' at the end of the directory name
 > > 
 ---
 

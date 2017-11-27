@@ -74,20 +74,32 @@ What do the following commands do:
 > > 
 >> >> ```console
 >> >> ls
->> >> >> lists all the files and directories(excluding the hidden ones) in the particular/working directory
->> >> ls -a
->> >> >> lists all the files and directories in the particular/working directory
->> >> ls -l
->> >> >> lists all the files along with their user details etc (i.e. in the long format)
->> >> ls -lh
->> >> >>
->> >> ls -lah
->> >> >>
->> >> ls -t
->> >> >> lists the files in the descending order of when they have been modified
->> >> ls -Glp
->> >> >>
 >> >> ```
+>> >> >> lists all the files and directories(excluding the hidden ones) in the particular/working directory
+>> >> ```console
+>> >> ls -a
+>> >> ```
+>> >> >> lists all the files and directories in the particular/working directory
+>> >> ```console
+>> >> ls -l
+>> >> ```
+>> >> >> lists all the files along with their user details etc (i.e. in the long format)
+>> >> ```console
+>> >> ls -lh
+>> >> ```
+>> >> >>
+>> >> ```console
+>> >> ls -lah
+>> >> ```
+>> >> >>
+>> >> ```console
+>> >> ls -t
+>> >> ```
+>> >> >> lists the files in the descending order of when they have been modified
+>> >> ```console
+>> >> ls -Glp
+>> >> ```
+>> >> >>
 > > 
 ---
 

@@ -22,7 +22,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > Commands
 >> >> ```  console
 >> >> show current working directory path
->> >> >> pwd
+>> >> >> pwd ```
 >> >> creating a directory
 >> >> >> mkdir <directory_name>
 >> >> deleting a directory

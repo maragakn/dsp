@@ -20,9 +20,10 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > Commands
-``` console
 >> >> show current working directory path
+>> >> >> ``` console 
 >> >> >> pwd 
+>> >> >> ```
 >> >> creating a directory
 >> >> >> mkdir <directory_name>
 >> >> deleting a directory

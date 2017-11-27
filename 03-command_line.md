@@ -20,7 +20,7 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > Commands
->> >> ``` console
+```>> >>  console
 >> >> show current working directory path
 >> >> >> pwd
 >> >> creating a directory
@@ -53,7 +53,8 @@ What do the following commands do:
 `ls -t` 
 `ls -Glp`  
 
-> > ``` console
+> > 
+```>> >> console
 >> >> ls
 >> >> >> lists all the files and directories(excluding the hidden ones) in the particular/working directory
 >> >> ls -a
@@ -68,7 +69,8 @@ What do the following commands do:
 >> >> >> lists the files in the descending order of when they have been modified
 >> >> ls -Glp
 >> >> >>
-> > ```
+>> >> ```
+> > 
 ---
 
 ### Q3.  More List Files in Unix  

@@ -20,7 +20,7 @@ Here's a list of items with which you should be familiar:
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
 > > Commands
->> >> >> ```  console
+``` console
 >> >> show current working directory path
 >> >> >> pwd 
 >> >> creating a directory
@@ -38,7 +38,8 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 >> >> copying a file from one directory to another
 >> >> >> cp <file_name> <destination_directory_name>
 >> >> searching for a particular file using grep
->> >> >> ```
+>> >> >> 
+```
 > > 
 ---
 

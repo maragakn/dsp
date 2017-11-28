@@ -107,15 +107,37 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > My favorites:
+>> >> ```console
+>> >> ls -a
+>> >> ```
+>> >> displays all the files and directories including the hidden ones
+>> >>```console
+>> >> ls -alt
+>> >> ```
+>> >> displays all the files and directories including the hidden ones based on the time of modification of the files
+>> >>```console
+>> >> ls -R
+>> >> ```
+>> >> displays the contents of the sub directories as well
+>> >>```console
+>> >> ls -l
+>> >> ```
+>> >> displays the details of the files and directories in the long format
+>> >>```console
+>> >> ls -lh
+>> >> ```
+>> >> lists the files and directories in the long format with the size mentioned in human-readable format like Bytes,GB etc
 ---
 
 ### Q4.  Xargs   
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > 'xargs' is a UNIX command which processes a long list of file names. It can be used in conjunction with the "find" and "grep" commands.For example :
+>> >> ``` console
+>> >> find ./python -print | xargs grep "match_ends"
+>> >> ```
+>> >> This Command would return all the lines in the files in python directory where the word "match_ends" is present.
  
 

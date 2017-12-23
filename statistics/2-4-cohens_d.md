@@ -2,14 +2,12 @@
 
 >> ```python
 >> def Cohen(group1,group2):
->> >> ```python
->> >> mean1=group1.mean()
->> >> mean2=group2.mean()
->> >> var1=group1.var()
->> >> var2=group2.var()
->> >> pooled_var=(len(group1)*var1+len(group2)*var2)/ (len(group1)+len(group2))
->> >> return((mean1-mean2)/np.sqrt(pooled_var))
->> >> ```
+>>  mean1=group1.mean()
+>>  mean2=group2.mean()
+>>  var1=group1.var()
+>>  var2=group2.var()
+>>  pooled_var=(len(group1)*var1+len(group2)*var2)/ (len(group1)+len(group2))
+>>  return((mean1-mean2)/np.sqrt(pooled_var))
 >> 
 >> firsts = live[live.birthord == 1]
 >> others = live[live.birthord != 1]

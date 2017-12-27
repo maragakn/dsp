@@ -8,24 +8,22 @@
 >> %matplotlib inline
 
 >> def gen_CDF(input_list):
-    cdf={}
-    input_list.sort()
-    for x in input_list: 
-        c=0
-        #print('X %d',(x))
-        for y in input_list:
-            #print('y %d',(y))
-            if x >= y:
-                c+=1
-        cdf[x]=c/len(input_list)
-    return(cdf)
+>>   cdf={}
+>>   input_list.sort()
+>>   for x in input_list: 
+>>     c=0
+>>     for y in input_list:
+>>         if x >= y:
+>>             c+=1
+>>     cdf[x]=c/len(input_list)
+>> return(cdf)
 >> 
 >> def gen_PMF(input_list):
-    pmf={}
-    list_cnt=cnt(input_list)
-    for x in list_cnt:
-        pmf[x]=x/len(input_list)
-    return(pmf)
+>>  pmf={}
+>>  list_cnt=cnt(input_list)
+>>  for x in list_cnt:
+>>      pmf[x]=x/len(input_list)
+>>  return(pmf)
 >> 
 >> inp_arr=np.random.random(1000)
 >> cdf=gen_CDF(inp_arr)

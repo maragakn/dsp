@@ -6,7 +6,7 @@
 >> import matplotlib.pyplot as plt
 >> from collections import Counter as cnt
 >> %matplotlib inline
-
+>> 
 >> def gen_CDF(input_list):
 >>   cdf={}
 >>   input_list.sort()

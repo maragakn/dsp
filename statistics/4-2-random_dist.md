@@ -35,4 +35,5 @@
 >> plt.ylabel('Probability')
 >> plt.legend()
 >> ```
+>> 
 ![edit](../img/CDF_PMF_plot.png)

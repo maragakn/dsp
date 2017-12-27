@@ -31,5 +31,4 @@
 >> plt.plot(pmf.keys(),pmf.values() , drawstyle='steps', linestyle='-', alpha=0.5,c='r')
 >> plt.plot(cdf.keys(),cdf.values() , drawstyle='steps', linestyle='-', alpha=0.5,c='b')
 >> ```
-[[img/commit_file.png]]
-![edit](../img/edit_file.png)
+![edit](../img/CDF_PMF_plot.png)

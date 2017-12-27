@@ -1,5 +1,6 @@
 [Think Stats Chapter 4 Exercise 2](http://greenteapress.com/thinkstats2/html/thinkstats2005.html#toc41) (a random distribution)
-
+>> Yes the distribution was random and uniform. Please find the code and the CDF plot of the same below 
+>> 
 >> ```python
 >> import numpy as np
 >> import pandas as pd

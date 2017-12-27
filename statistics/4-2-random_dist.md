@@ -29,7 +29,10 @@
 >> inp_arr=np.random.random(1000)
 >> cdf=gen_CDF(inp_arr)
 >> pmf=gen_PMF(inp_arr)
->> plt.plot(pmf.keys(),pmf.values() , drawstyle='steps', linestyle='-', alpha=0.5,c='r')
->> plt.plot(cdf.keys(),cdf.values() , drawstyle='steps', linestyle='-', alpha=0.5,c='b')
+>> plt.plot(pmf.keys(),pmf.values() , drawstyle='steps', linestyle='-', alpha=0.5,c='r',label='PMF')
+>> plt.plot(cdf.keys(),cdf.values() , drawstyle='steps', linestyle='-', alpha=0.5,c='b',label='CDF')
+>> plt.xlabel('Numbers')
+>> plt.ylabel('Probability')
+>> plt.legend()
 >> ```
 ![edit](../img/CDF_PMF_plot.png)

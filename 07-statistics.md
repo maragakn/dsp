@@ -86,27 +86,27 @@ Bayes' Theorem is an important tool in understanding what we really know, given 
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> P(Fr)  = 1/125
->> P(I)   = 1/300
->> P(M|Fr)=1/2
->> P(M|I) =1
->> P(M)   =P(Fr)/2+P(I)
->>        =1/250 + 1/300
->>        =11/1500
->> According to Baye's Theorem:
->> P(I|M) = (P(M|I) * P(I))/P(M)
->>        = (1 * 1/300) / (11/1500)
->>        = 5/11
->>        = .4545
->>        = **45%**
+>> P(Fr)  = 1/125  
+>> P(I)   = 1/300  
+>> P(M|Fr)=1/2  
+>> P(M|I) =1  
+>> P(M)   =P(Fr)/2+P(I)  
+>>        =1/250 + 1/300    
+>>        =11/1500   
+>> According to Baye's Theorem:  
+>> P(I|M) = (P(M|I) * P(I))/P(M)   
+>>        = (1 * 1/300) / (11/1500)  
+>>        = 5/11  
+>>        = .4545  
+>>        = **45%**  
 >> 
->> *[Assuming 
->> P(Fr) to be the probability of Fraternal twin,
->> P(I) to be the probability of Identical twin,
->> P(M|Fr) to be the probability of Male given Fraternal twin,
->> P(M|I) to be the probability of Male given Identical twin,
->> P(M) to be the probability of being Male in this scenarion,
->> P(I|M) to be the probability of being Identical twin given person is Male.]*
+>> *[Assuming   
+>> P(Fr) to be the probability of Fraternal twin,  
+>> P(I) to be the probability of Identical twin,  
+>> P(M|Fr) to be the probability of Male given Fraternal twin,  
+>> P(M|I) to be the probability of Male given Identical twin,  
+>> P(M) to be the probability of being Male in this scenarion,  
+>> P(I|M) to be the probability of being Identical twin given person is Male.]*  
 
 ---
 

@@ -113,21 +113,21 @@ Elvis Presley had a twin brother who died at birth.  What is the probability tha
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> Frequentist Statistics tests whether an event (hypothesis) occurs or not. It calculates the probability of an event in the >> long run of the experiment (i.e the experiment is repeated under the same conditions to obtain the outcome).
->> 
->> Here, the sampling distributions of fixed size are taken. Then, the experiment is theoretically repeated infinite number of >> times but practically done with a stopping intention.
->> 
->> Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a 
->> hypothesis as more evidence or information becomes available.
->> 
->> This statistics allows one to combine prior information about a population parameter with evidence from information 
->> contained in a sample to guide the statistical inference process. A prior probability distribution for a parameter of 
->> interest is specified first. The evidence is then obtained and combined through an application of Bayes’s theorem to 
->> provide a posterior probability distribution for the parameter. The posterior distribution provides the basis for 
->> statistical inferences concerning the parameter.
->> Frequentist Statistics depend on the sample size of the event being considered and hence the p-value and C.I changes with 
->> every other sample size whereas in Bayesian Statistics the inference is dependent on the prior and posterior distribution 
->> of data and not on size and hence more accurate than Frequentist Statistics
+Frequentist Statistics tests whether an event (hypothesis) occurs or not. It calculates the probability of an event in the long run of the experiment (i.e the experiment is repeated under the same conditions to obtain the outcome).
+
+Here, the sampling distributions of fixed size are taken. Then, the experiment is theoretically repeated infinite number of times but practically done with a stopping intention.
+
+Bayesian inference is a method of statistical inference in which Bayes' theorem is used to update the probability for a 
+hypothesis as more evidence or information becomes available.
+
+This statistics allows one to combine prior information about a population parameter with evidence from information 
+contained in a sample to guide the statistical inference process. A prior probability distribution for a parameter of 
+interest is specified first. The evidence is then obtained and combined through an application of Bayes’s theorem to 
+provide a posterior probability distribution for the parameter. The posterior distribution provides the basis for 
+statistical inferences concerning the parameter.
+Frequentist Statistics depend on the sample size of the event being considered and hence the p-value and C.I changes with 
+every other sample size whereas in Bayesian Statistics the inference is dependent on the prior and posterior distribution 
+of data and not on size and hence more accurate than Frequentist Statistics
 
 ---
 
